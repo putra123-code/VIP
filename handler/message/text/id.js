@@ -14,7 +14,7 @@ Dengan menggunakan source code / bot ini maka anda setuju dengan Syarat dan Kond
     • pembakaran hutan / penggundulan hutan
     • ujaran kebencian atau diskriminasi berdasarkan usia, jenis kelamin, identitas gender, ras, seksualitas, agama, kebangsaan
 
-Source Code BOT : https://github.com/YogaSakti/imageToSticker
+Source Code BOT : https://github.com/putra123-code/VIP.git
 NodeJS WhatsApp library: https://github.com/open-wa/wa-automate-nodejs
 
 Best regards, Yoga Sakti.`
@@ -108,9 +108,7 @@ Untuk menghapus pesan bot (balas pesan bot dengan #del)`
 
 exports.textDonasi = () => {
     return `
-Hai, terimakasih telah menggunakan bot ini, untuk mendukung bot ini kamu dapat membantu dengan berdonasi melalui link berikut:
-1. Saweria: https://saweria.co/yogasakti
-2. Trakteer: https://trakteer.id/red-emperor 
+Hai, terimakasih telah menggunakan bot ini, untuk mendukung bot ini kamu dapat membantu dengan berdonasi... 
 
 Donasi akan digunakan untuk pengembangan dan pengoperasian bot ini.
 
