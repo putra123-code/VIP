@@ -6,15 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Yoga Sakti",
+  "author": "Putra_Prawangsa",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YogaSakti/imageToSticker.git"
+    "url": "https://github.com/putra123-code/VIP"
   },
   "bugs": {
-    "url": "https://github.com/YogaSakti/imageToSticker/issues"
+    "url": "https://github.com/putra123-code/VIP/issues"
   },
-  "homepage": "https://github.com/YogaSakti/imageToSticker",
+  "homepage": "https://github.com/putra123-code/VIP/imageToSticker",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.13",
@@ -28,7 +28,7 @@
     "require-from-web": "^1.2.0",
     "tiktok-scraper": "^1.4.0",
     "update-json-file": "^1.1.1",
-    "video-url-link": "git+https://github.com/YogaSakti/video-url-link.git"
+    "video-url-link": "git+https://github.com/putra123-code/VIP/video-url-link.git"
   },
   "devDependencies": {
     "eslint": "^7.12.1",
