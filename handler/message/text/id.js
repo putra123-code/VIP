@@ -14,7 +14,7 @@ Dengan menggunakan source code / bot ini maka anda setuju dengan Syarat dan Kond
     • pembakaran hutan / penggundulan hutan
     • ujaran kebencian atau diskriminasi berdasarkan usia, jenis kelamin, identitas gender, ras, seksualitas, agama, kebangsaan
 
-Source Code BOT : https://github.com/putra123-code/VIP
+Source Code BOT : https://github.com/putra123-code/VIP.git
 
 Best regards, Putra_Prawangsa.`
 }
