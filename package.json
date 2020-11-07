@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/putra123-code/VIP/issues"
   },
-  "homepage": "https://github.com/putra123-code/VIP/imageToSticker",
+  "homepage": "https://github.com/putra123-code/VIP/VIP",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.13",
