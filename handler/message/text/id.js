@@ -17,7 +17,7 @@ Dengan menggunakan source code / bot ini maka anda setuju dengan Syarat dan Kond
 Source Code BOT : https://github.com/putra123-code/VIP.git
 NodeJS WhatsApp library: https://github.com/open-wa/wa-automate-nodejs
 
-Best regards, Yoga Sakti.`
+Best regards, Putra_Prawangsa.`
 }
 
 exports.textMenu = (pushname) => {
